@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "SolExRe",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentin13371/SolExRE.git"
+  },
+  "keywords": [
+    "ExRe"
+  ],
+  "author": "Valentin Solodkovskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valentin13371/SolExRE/issues"
+  },
+  "homepage": "https://github.com/Valentin13371/SolExRE#readme"
+}
